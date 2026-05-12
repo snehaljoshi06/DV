@@ -12,5 +12,7 @@ Canada and North Asia showed strong performance
 This project helped me understand dashboard designing, data visualization, and how Power BI can be used to analyze business data more effectively.
 
 PROJECT LINK: https://lnkd.in/gfYT8SEt
+
 Report Link: https://drive.google.com/file/d/1aOyMLAPlfpJRt6ufe416Uxxjj3kIb89N/view?usp=drivesdk
+
 Presentation Link: https://drive.google.com/file/d/1PMnIgljpOh3AKh3LHC9DAjQZx-V58KSN/view?usp=drivesdk
